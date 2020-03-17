@@ -17,7 +17,7 @@
   }
   
   .app {
-    background: #fff;
+    background: linear-gradient(rgb(189, 234, 245), rgb(156, 2, 66));
     padding: 20px;
     width: 600px;
     margin: 0 auto;
@@ -71,7 +71,7 @@
     font-weight: inherit;
     line-height: 1.4;
     color: #000;
-    background: #fff none;
+    background: rgba(255, 255, 255, 0.1) none;
     border: 1px solid #999;
     border-radius: 5px;
   }
